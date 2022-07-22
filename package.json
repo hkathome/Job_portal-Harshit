@@ -4,8 +4,8 @@
   "description": "Job_Portal",
   "main": "server.js",
   "engines": {
-    "node": "14.17.6",
-    "npm" : "9.13.2"
+    "node": "15.7.0",
+    "npm" : "7.4.3"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
